@@ -1,0 +1,8 @@
+D:\VS Projects\Ex1\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+D:\VS Projects\Ex1\Ex1\obj\Debug\Ex1.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+D:\VS Projects\Ex1\Ex1\bin\Debug\Ex1.exe.config
+D:\VS Projects\Ex1\Ex1\bin\Debug\Ex1.exe
+D:\VS Projects\Ex1\Ex1\bin\Debug\Ex1.pdb
+D:\VS Projects\Ex1\Ex1\obj\Debug\Ex1.exe
+D:\VS Projects\Ex1\Ex1\obj\Debug\Ex1.pdb
